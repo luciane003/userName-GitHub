@@ -6,13 +6,11 @@ Este projeto é um site onde você pode pesquisar por um usuário do GitHub.
 - Se não houver cadastro, o sistema avisa que não existe conta.  
 - Se for digitado um usuário inválido, também aparece a mensagem de erro correspondente.  
 
-
 ##  🚧  Dificuldades
 Este foi meu primeiro projeto consumindo uma API com **fetch**.  
 No começo tive dificuldades por ser muita informação nova, mas com a ajuda e orientação do **meu curso** consegui entender e aplicar direitinho.  
 
 ## ✅ Funcionalidades
-
 - Pesquisa de usuários do GitHub.  
 - Exibição de informações do perfil.  
 - Listagem de repositórios.  
@@ -23,20 +21,22 @@ No começo tive dificuldades por ser muita informação nova, mas com a ajuda e 
 Acesse [aqui.](https://luciane003.github.io/userName-GitHub/)
 
 ## 🖼️ Demonstração
+<p align="center">
+  <img src="./design-gif/userName-Github-‐-Feito-com-o-Clipchamp.gif" alt="Demonstration of my project" width="60%">
+</p>
 
 ## 🚀 Tecnologias utilizadas
 
- <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-</div><br>
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+</div>
 
 ## 📂 Pré-requisitos
 - Como clonar o repositório:
 
-``bash 
 git clone (https://github.com/luciane003/userName-GitHub.git)
-
 
 ## 👩‍💻 Autora
 - Luciane Kellen
