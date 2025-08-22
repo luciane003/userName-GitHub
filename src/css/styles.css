@@ -121,6 +121,23 @@ main {
   line-height: 23px;
 }
 
+.follow-info {
+  display: flex;
+  gap: 4rem;
+  padding: 10px 10px;
+  margin-top: 2rem;
+}
+
+.followers span, .following span {
+  font-weight: bold; /* número destacado */
+  font-size: 16px;
+  color: #000;
+}
+
+.text {
+  font-size: 14px;
+}
+
 /* REPOSITORIES */
 
 .container .profile-data .repositories h2{
@@ -150,6 +167,69 @@ main {
 
 .container .profile-data.hide{
   display: none;
+}
+
+.repo-info {
+  margin-bottom: 1rem;
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+  flex-wrap: wrap;
+  row-gap: 8px;
+}
+
+.repo-stat {
+  background-color:  #e0e0e0;
+  padding: 5px;
+  border: 1px solid #ccc; 
+  border-radius: 5px;
+}
+
+.events {
+  margin-top: 20px;
+  padding: 15px;
+  border: 3px solid #e0e0e0;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+
+.title-events {
+  color: #333;
+  font-weight: 500;
+  margin-bottom: 1rem;
+}
+
+.events ul {
+  list-style: none;
+  padding: 0;
+}
+
+.events li{
+  padding: 10px 0;
+  border-bottom: 5px solid #f0f0f0;
+  color: #555;
+  font-size: 14px;
+}
+
+.events li:last-child {
+  border-bottom: none;
+}
+
+.event-type {
+  display: inline-block;
+  font-weight: bold;
+  color:  #0070f3;
+}
+
+.repo-name {
+  font-weight: 500;
+  color: #333;
+}
+
+.commit-msg {
+  font-style: italic;
+  color: #555;
 }
 
 @media (max-width: 1280px) {
