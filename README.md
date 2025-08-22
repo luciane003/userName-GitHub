@@ -22,7 +22,7 @@ Acesse [aqui.](https://luciane003.github.io/userName-GitHub/)
 
 ## 🖼️ Demonstração
 <p align="center">
-  <img src="./design-gif/userName-Github-‐-Feito-com-o-Clipchamp.gif" alt="Demonstration of my project" width="60%">
+  <img src="./design-gif/visualizacao-github.gif" alt="Demonstration of my project" width="60%">
 </p>
 
 ## 🚀 Tecnologias utilizadas
